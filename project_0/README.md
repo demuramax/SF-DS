@@ -1,7 +1,4 @@
-# Проект 7. Выбираем авто выгодно  
-## Юнит 8. Нейронные сети  
-### skillfactory_rds  
-![https://img.shields.io/badge/Python-3.8.5-blue](https://img.shields.io/badge/Python-3.8.5-blue)
+# Проект 0. Угадай число 
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/demuramax/dt_data_science/project_0/README.md#Описание-проекта)  
